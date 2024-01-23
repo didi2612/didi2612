@@ -22,8 +22,8 @@ Here are some technologies and tools I enjoy working with:
 
 ## 🌟 Featured Projects
 
-- [STUDY JOM](Link to Project 1)
-- [RATs](Link to Project 2) 
+- [[STUDY JOM]](https://github.com/didi2612/RATs)
+- [[RATs]](https://github.com/didi2612/RATs)
 - [[EOP PROJECT](https://github.com/didi2612/EOP-PROJECT)]
 
 
