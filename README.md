@@ -1,10 +1,10 @@
 # Azmi's GitHub Profile
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="DUCK GIF" width="200"/>
-https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif
+
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
-<img src="https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif" alt="DIVIDER GIF" width="200"/>
+<img src="https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/ivarbjorn/23tRt8DpPiCgB4CcxRgbo9FZkP78rhtuiTMcMLKUSEjFKaDXQuWawqdZmnS31pbNBjxd3.gif" alt="DIVIDER GIF" width="500"/>
 ## 🚀 About Me
 
 - 💼 I am the founder and Chief Executive Officer at Azmi Productions.
