@@ -5,7 +5,10 @@
 <p align=center>
   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="DUCK GIF" width="200"/></img>
   </p>
-<hr>
+  <p align=center>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" /></img>
+  </p>
+
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
