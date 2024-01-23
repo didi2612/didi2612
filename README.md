@@ -1,31 +1,31 @@
 # Azmi's GitHub Profile
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="DUCK GIF" width="200"/>
 
-## 👋 Hello, World!
+## 👋 Hello, World!<br>
 
-Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
+Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. <br>This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
 <hr>
 ## 🚀 About Me
 <br>
-- 💼 I am the founder and Chief Executive Officer at Azmi Productions.
-- 📚 I am a Mechatronics Engineering Students at International University Malaysia.
+- 💼 I am the founder and Chief Executive Officer at Azmi Productions.<br>
+- 📚 I am a Mechatronics Engineering Students at International University Malaysia.<br>
 
 <hr>
 ## 🛠️ Technologies & Tools
 <br>
 Here are some technologies and tools I enjoy working with:
 <br>
-- 💻 Languages: JAVA, PHP, C, C++. PYTHON, BASH, REACT
-- 🛢️ Databases: SQL
-- 🌐 Web Technologies: HTML,CSS,JAVASCRIPT
-- 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO
+- 💻 Languages: JAVA, PHP, C, C++. PYTHON, BASH, REACT<br>
+- 🛢️ Databases: SQL<br>
+- 🌐 Web Technologies: HTML,CSS,JAVASCRIPT<br>
+- 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO<br>
 
 <hr>
 ## 🌟 Featured Projects
 <br>
-- [[STUDY JOM]](https://github.com/didi2612/RATs)
-- [[RATs]](https://github.com/didi2612/RATs)
-- [[EOP PROJECT]](https://github.com/didi2612/EOP-PROJECT)
+- [[STUDY JOM]](https://github.com/didi2612/RATs)<br>
+- [[RATs]](https://github.com/didi2612/RATs)<br>
+- [[EOP PROJECT]](https://github.com/didi2612/EOP-PROJECT)<br>
 <br>
 <hr>
 Feel free to explore more of my repositories for a variety of projects!
