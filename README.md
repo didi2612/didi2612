@@ -4,13 +4,13 @@
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
-<img src="https://images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif" alt="DIVIDER GIF" width="500"/>
+<hr>
 ## 🚀 About Me
 
 - 💼 I am the founder and Chief Executive Officer at Azmi Productions.
 - 📚 I am a Mechatronics Engineering Students at International University Malaysia.
 
-  <hr>
+<hr>
 ## 🛠️ Technologies & Tools
 
 Here are some technologies and tools I enjoy working with:
