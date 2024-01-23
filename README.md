@@ -3,7 +3,7 @@
 https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif
 ## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.
+Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
 <img src="https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif" alt="DIVIDER GIF" width="200"/>
 ## 🚀 About Me
 
