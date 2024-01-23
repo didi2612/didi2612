@@ -6,23 +6,23 @@
 Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. <br>This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
 <hr>
 ## 🚀 About Me
-<br>
+<br><br>
 - 💼 I am the founder and Chief Executive Officer at Azmi Productions.<br>
 - 📚 I am a Mechatronics Engineering Students at International University Malaysia.<br>
 
 <hr>
 ## 🛠️ Technologies & Tools
-<br>
+<br><br>
 Here are some technologies and tools I enjoy working with:
-<br>
+<br><br>
 - 💻 Languages: JAVA, PHP, C, C++. PYTHON, BASH, REACT<br>
 - 🛢️ Databases: SQL<br>
 - 🌐 Web Technologies: HTML,CSS,JAVASCRIPT<br>
-- 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO<br>
+- 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO<br><br>
 
 <hr>
 ## 🌟 Featured Projects
-<br>
+<br><br>
 - [[STUDY JOM]](https://github.com/didi2612/RATs)<br>
 - [[RATs]](https://github.com/didi2612/RATs)<br>
 - [[EOP PROJECT]](https://github.com/didi2612/EOP-PROJECT)<br>
@@ -35,8 +35,8 @@ Feel free to explore more of my repositories for a variety of projects!
 <hr>
 ## 📫 Let's Connect
 <br>
-- 💼 LinkedIn: [azmi basharudin](https://www.linkedin.com/in/azmi-basharudin/)
-- 🌐 Website: [azmiproductions](https://azmiproductions.com)
+- 💼 LinkedIn: [azmi basharudin](https://www.linkedin.com/in/azmi-basharudin/)<br>
+- 🌐 Website: [azmiproductions](https://azmiproductions.com)<br>
 <br>
 Feel free to reach out, whether it's for collaboration, networking, or just a friendly chat!
 <br>
