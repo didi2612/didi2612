@@ -1,4 +1,5 @@
 # Azmi's GitHub Profile
+<img src="[https://i.ibb.co/Bwc2hbT/latest-logo-no-background.png](https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif)" alt="DUCK GIF" width="200"/>
 
 ## 👋 Hello, World!
 
@@ -14,7 +15,7 @@ Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Pet
 
 Here are some technologies and tools I enjoy working with:
 
-- 💻 Languages: JAVA,PHP,C.C++.PYTHON,BASH,REACT
+- 💻 Languages: JAVA, PHP, C, C++. PYTHON, BASH, REACT
 - 🛢️ Databases: SQL
 - 🌐 Web Technologies: HTML,CSS,JAVASCRIPT
 - 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO
