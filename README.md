@@ -20,6 +20,12 @@ Here are some technologies and tools I enjoy working with:
 - 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO
 
 
+## 🌟 Featured Projects
+
+- [STUDY JOM](Link to Project 1)
+- [RATs](Link to Project 2) 
+- [[EOP PROJECT](https://github.com/didi2612/EOP-PROJECT)]
+
 
 Feel free to explore more of my repositories for a variety of projects!
 
@@ -30,6 +36,7 @@ Feel free to explore more of my repositories for a variety of projects!
 - 🌐 Website: [azmiproductions](https://azmiproductions.com)
 
 Feel free to reach out, whether it's for collaboration, networking, or just a friendly chat!
+
 
 ## 🙏 Acknowledgments
 
