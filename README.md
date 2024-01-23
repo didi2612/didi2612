@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Pet
 - 💼 I am the founder and Chief Executive Officer at Azmi Productions.
 - 📚 I am a Mechatronics Engineering Students at International University Malaysia.
 
-  
+  <hr>
 ## 🛠️ Technologies & Tools
 
 Here are some technologies and tools I enjoy working with:
@@ -20,17 +20,18 @@ Here are some technologies and tools I enjoy working with:
 - 🌐 Web Technologies: HTML,CSS,JAVASCRIPT
 - 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO
 
-
+<hr>
 ## 🌟 Featured Projects
 
 - [[STUDY JOM]](https://github.com/didi2612/RATs)
 - [[RATs]](https://github.com/didi2612/RATs)
 - [[EOP PROJECT]](https://github.com/didi2612/EOP-PROJECT)
 
-
+<hr>
 Feel free to explore more of my repositories for a variety of projects!
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" alt="MINION GIF" width="200"/>
+<hr>
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [azmi basharudin](https://www.linkedin.com/in/azmi-basharudin/)
@@ -38,7 +39,7 @@ Feel free to explore more of my repositories for a variety of projects!
 
 Feel free to reach out, whether it's for collaboration, networking, or just a friendly chat!
 
-
+<hr>
 ## 🙏 Acknowledgments
 
 Special thanks to the GitHub community and all the amazing developers out there. Let's continue to learn, build, and inspire together!
