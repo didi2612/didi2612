@@ -25,12 +25,12 @@ Here are some technologies and tools I enjoy working with:
 
 - [[STUDY JOM]](https://github.com/didi2612/RATs)
 - [[RATs]](https://github.com/didi2612/RATs)
-- [[EOP PROJECT](https://github.com/didi2612/EOP-PROJECT)]
+- [[EOP PROJECT]](https://github.com/didi2612/EOP-PROJECT)
 
 
 Feel free to explore more of my repositories for a variety of projects!
 
-
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" alt="MINION GIF" width="200"/>
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [azmi basharudin](https://www.linkedin.com/in/azmi-basharudin/)
