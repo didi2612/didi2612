@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/callback?code=AQCNtZAB-dxWnuWYz6GgAKrAqED32pi6sVzxaEjOIM_F-4ZsOacbfAVPuPY11jCZheBlSmrlv3nwvtICvoqJ6UVHRHLPRkUsb3mlOWglxUIesr4CZ1gzmRKBvjv4WqU3526CEXmqSJ91qB59Z14u6i4t3UtTHNPAo4GWpv7XAv7d0aTjmyMuB4q3LBXxFAj2Rlk856D2eO1OEBKj4pXDPpOr_cl5Sy1CgvXk4NfJ-FVCtc1P61rcR8kIrioBq8ojuRjeNKmBIghOqyhsT8KXH8SnD-Xz)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)" ></iframe>
+  <iframe src="https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true" ></iframe>
  
   </a>
 </p>
