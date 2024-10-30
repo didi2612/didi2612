@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://open.spotify.com/embed/user/312sckq4hebyervf4utsjawou4hm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <img src="https://open.spotify.com/embed/user/312sckq4hebyervf4utsjawou4hm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
 </p>
 <br>
 
