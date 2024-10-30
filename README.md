@@ -8,9 +8,10 @@
 <p align=center>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" />
 </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true)
 
 <p align="center">
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true)
+
  
   </a>
 </p>
