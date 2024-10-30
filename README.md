@@ -3,34 +3,34 @@
 </h1>
 <br>
 <p align=center>
-  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="DUCK GIF" width="200"/></img>
-  </p>
-  <p align=center>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" /></img>
-  </p>
+  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="DUCK GIF" width="200"/>
+</p>
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" />
+</p>
 
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true)
+  <iframe src="https://open.spotify.com/embed/user/312sckq4hebyervf4utsjawou4hm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
 <br>
 
 ## 👋 Hello, World!<br>
 
-Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor. <br>This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
+Welcome to my GitHub profile! I'm Azmi, a passionate Software Developer from Petaling Jaya, Selangor.<br>This is where I showcase my projects, contributions, and share my knowledge with the amazing GitHub community.<br>
 <hr>
 ## 🚀 About Me
 <br><br>
 - 💼 I am the founder and Chief Executive Officer at Azmi Productions.<br>
-- 📚 I am a Mechatronics Engineering Students at International University Malaysia.<br>
+- 📚 I am a Mechatronics Engineering Student at International Islamic University Malaysia.<br>
 
 <hr>
 ## 🛠️ Technologies & Tools
 <br><br>
 Here are some technologies and tools I enjoy working with:
 <br><br>
-- 💻 Languages: JAVA, PHP, C, C++. PYTHON, BASH, REACT<br>
+- 💻 Languages: JAVA, PHP, C, C++, PYTHON, BASH, REACT<br>
 - 🛢️ Databases: SQL<br>
-- 🌐 Web Technologies: HTML,CSS,JAVASCRIPT<br>
+- 🌐 Web Technologies: HTML, CSS, JAVASCRIPT<br>
 - 🔧 DevOps & Tools: MICROSOFT VISUAL STUDIO<br><br>
 
 <hr>
